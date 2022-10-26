@@ -1,0 +1,12 @@
+= Overview
+
+This is a Java application providing a simple back-end for registering and saving users into a database. It also implements a security mechanism that users must confirm their email address via a link in an automated email response. After successfully registering and confirming their email address, users can log in on a login page.
+
+== Technologies used
+
+* Java 17
+* Maven
+* Spring Boot
+* Spring Security
+* PostgreSQL
+* Lombok
